@@ -1,3 +1,5 @@
+# 大家fork后，务必改更改重启时间，有迹象表明同时重启的账户可能会同时失效！
+
 # EUserv_extend
 使用Github Action自动续期EUserv免费IPv6 VPS脚本
 
