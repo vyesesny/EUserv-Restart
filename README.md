@@ -1,4 +1,4 @@
-### 目前IPV6 only的vps添加DNS64已无意义，因为有更加好的WARP解决方案，请看该项目脚本 https://github.com/YG-tsj/EUserv-addv4-warp
+### 目前IPV6 only的vps添加DNS64已无意义，因为有更加好的WARP解决方案，有德鸡EUserv后第一件事就是刷这个脚本：请看该项目脚本 https://github.com/YG-tsj/EUserv-addv4-warp
 
 # 大家fork后，务必改更改重启时间，有迹象表明同时重启的账户可能会同时失效！
 
